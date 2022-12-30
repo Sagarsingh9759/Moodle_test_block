@@ -25,5 +25,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2022122300;
-$plugin->requires  = 2022111800;
+$plugin->requires  = 2016052300;
 $plugin->component = 'block_sagar_test';
